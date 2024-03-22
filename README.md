@@ -4,6 +4,6 @@
 
 **•TIME SERIES ANALYSIS OF FLIGHT DEPARTURE IN IRELAND**: Analysing the Flight Departure Data which is basically a monthly time-series of average number of departures from Ireland via airports, commencing in 2010 to September 2022. The main objective of this project was estimating and discussing different suitable time series models namely, Exponential Smoothing, ARIMA, SARIMA or other simple time series models using appropriate diagnostic tests and checks. Finally, forecasting the number of departures in the first 6 months of 2021 and discussing the choice of an optimum model for this series. The 'Departure.csv' file in the 'Time_series_project' folder contains the dataset required for this specific analysis, and 'Time_series_analysis.ipynb' has all the codes needed to construct the study.
 
-Please find the detailed report file named as **'TABA_21225265'** where each and every model building steps has been documented with proper justifications and useful visuals.
+Please find the detailed report file named as **TABA_21225265** where each and every model building steps has been documented with proper justifications and useful visuals.
 
 **All the analysis has been done using R programming language.**
